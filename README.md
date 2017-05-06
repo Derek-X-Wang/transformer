@@ -12,9 +12,7 @@ I like to try new things, but it often takes more time than it should. I want th
 
 This is a big goal. Any help is welcomed!
 
-
-
-\[READ\]\(docs/LANGS.md\)
+[READ](/docs/LANGS.md)
 
 ## Roadmap
 
