@@ -8,11 +8,13 @@ In short,
 
 **"XXX tutorial for YYY developers."**
 
-
-
 I like to try new things, but it often takes more time than it should. I want this kind tutorial so badly and that's why I make it.
 
 This is a big goal. Any help is welcomed!
+
+
+
+\[READ\]\(docs/LANGS.md\)
 
 ## Roadmap
 
