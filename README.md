@@ -14,10 +14,7 @@ This is a big goal. Any help is welcomed!
 
 
 
-```
-[READ](docs/LANGS.md)
-
-```
+\[READ\]\(docs/LANGS.md\)
 
 ## Roadmap
 
